@@ -9,7 +9,7 @@ a.Trip Volume: Identifying trends in ride frequency, peak times, and demand patt
 
 ![Screenshot 2024-12-06 162512](https://github.com/user-attachments/assets/56665fc1-6944-4a0d-884a-5b2a249eca2f)
 
-![Uploading Screenshot 2024-12-05 231006.png…]()
+![Screenshot 2024-12-06 162530](https://github.com/user-attachments/assets/6142696b-ff06-489f-bb93-12e9c1226a61)
 
 ![Screenshot 2024-12-06 162554](https://github.com/user-attachments/assets/1e000fcb-1f34-45a8-a952-5d9ce6e70e85)
 
