@@ -11,6 +11,8 @@ a.Trip Volume: Identifying trends in ride frequency, peak times, and demand patt
 
 ![Uploading Screenshot 2024-12-05 231006.png…]()
 
+![Screenshot 2024-12-06 162554](https://github.com/user-attachments/assets/1e000fcb-1f34-45a8-a952-5d9ce6e70e85)
+
 **Tool and approach**
 
 SQL: Used for data extraction, aggregation, and querying key metrics.
