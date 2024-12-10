@@ -5,11 +5,18 @@ I recently analyzed the GoodCabs dataset to assess the company’s performance a
 
 **Key metrics **
 
-a.Trip Volume: Identifying trends in ride frequency, peak times, and demand patterns.
+Trip Volume & Distribution: Focused on understanding ride frequency and demand patterns across time (peak hours, weekdays vs weekends) and regions.
 
 ![Screenshot 2024-12-06 162512](https://github.com/user-attachments/assets/56665fc1-6944-4a0d-884a-5b2a249eca2f)
 
+Passenger Distribution: Analyzed the total number of new vs repeat passengers and calculated the repeat passenger rate.
+
+New to Repeat Passenger Ratio: Explored the balance between acquiring new customers and retaining repeat customers.
+
+
 ![Screenshot 2024-12-06 162530](https://github.com/user-attachments/assets/6142696b-ff06-489f-bb93-12e9c1226a61)
+
+Passenger Ratings: Assessed customer feedback to evaluate satisfaction levels and identify areas for service improvement.
 
 ![Screenshot 2024-12-06 162554](https://github.com/user-attachments/assets/1e000fcb-1f34-45a8-a952-5d9ce6e70e85)
 
