@@ -26,10 +26,12 @@ Canva: Designed a professional report to present the findings effectively
 **Insights**
 
 Identified peak demand periods and regions to optimize fleet allocation.
+
 Uncovered insights into passenger satisfaction and opportunities for improvement.
+
 Provided recommendations for boosting repeat passenger rates and enhancing customer loyalty.
 
-This project demonstrated the power of data-driven decision-making in improving operational efficiency and customer experience in the transportation industry
+This project demonstrated the power of data-driven decision-making in improving operational efficiency and customer experience in the transportation industry.
 
 **Dashboard - Power bi **
 
