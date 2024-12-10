@@ -7,6 +7,8 @@ I recently analyzed the GoodCabs dataset to assess the company’s performance a
 
 a.Trip Volume: Identifying trends in ride frequency, peak times, and demand patterns.
 
+![Screenshot 2024-12-06 162512](https://github.com/user-attachments/assets/56665fc1-6944-4a0d-884a-5b2a249eca2f)
+
 d.Passenger Satisfaction: Analyzing customer ratings to measure service quality.
 
 c.Repeat Passenger Rate: Assessing customer loyalty and retention.
